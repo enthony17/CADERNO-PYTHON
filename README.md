@@ -109,10 +109,10 @@ label marry:
 `"And so, we become a visual novel creating` duo."
 
 ## 5 - Exercícios Python
-*5.1 - Faça um programa que pergunte o nome do usuário e responda o usuário com: Seja bem vindo[nome do usuário].
+## 5.1 - Faça um programa que pergunte o nome do usuário e responda o usuário com: Seja bem vindo[nome do usuário].
 
-*5.2 - Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
+## 5.2 - Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
 
 C = 5 * ((F-32) / 9).
 
-*5.3 - Faça um programa que peça para o usuario digitar uma letra e verifique se a letra é vogal ou consoante
+## 5.3 - Faça um programa que peça para o usuario digitar uma letra e verifique se a letra é vogal ou consoante
